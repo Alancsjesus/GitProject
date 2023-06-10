@@ -17,4 +17,4 @@ git push -u origin main -> realiza o push para o github
 
 cd nome_da_pasta -> Entra na pasta
 
-.. -> Sai da pasta
+.. -> Sai da pastat
